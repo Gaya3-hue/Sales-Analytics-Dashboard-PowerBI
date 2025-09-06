@@ -39,9 +39,6 @@ The dashboard helps business stakeholders:
 | KPI Cards | ![WhatsApp Image 2025-09-06 at 09 18 09_faa5fd41](https://github.com/user-attachments/assets/53a3ea67-d9c0-490c-a391-7607d43e1afe) |
 | Sales Trend | ![WhatsApp Image 2025-09-06 at 09 28 20_1a121d38](https://github.com/user-attachments/assets/77341678-63ed-4e47-82d2-bf1b625a1041) |
 | Sales by State | ![WhatsApp Image 2025-09-06 at 09 41 37_fa164018](https://github.com/user-attachments/assets/023d664a-4c89-4685-ac67-9f45b6ff729a) |
-1. ![WhatsApp Image 2025-09-06 at 09 44 12_7883c9c2](https://github.com/user-attachments/assets/b5998cdf-4aea-46b9-9c05-094592e2a2be)
-2. ![WhatsApp Image 2025-09-06 at 09 45 01_7fd2d7b3](https://github.com/user-attachments/assets/8fc616db-9d84-4578-ace6-66aa273c9482)
-3. ![WhatsApp Image 2025-09-06 at 09 45 18_a1dd70ee](https://github.com/user-attachments/assets/e2c9a60b-97fd-4ebe-835d-a7cc0fc7163c)
 | Sales by Product | ![WhatsApp Image 2025-09-06 at 09 57 09_65e862a9](https://github.com/user-attachments/assets/8c3aa4dc-69ca-41cb-9d11-66064ffe5c45) |
 | Sales by Product | ![WhatsApp Image 2025-09-06 at 09 57 26_2e017ec8](https://github.com/user-attachments/assets/d3685d0c-a5af-4de9-bba7-19f46f542f1d) |
 | Sales by Retailer | ![WhatsApp Image 2025-09-06 at 10 01 03_764610f3](https://github.com/user-attachments/assets/8f68f26d-637c-4b74-af79-ebf9a3611c42) |
